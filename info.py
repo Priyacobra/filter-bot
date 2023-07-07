@@ -68,8 +68,8 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
     
       # URL Shortener #
 
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'https://flashshortx.in')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'e194afe72531bf7eb5c88759d5332f68ebb10092')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'False')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'False')
 
      # Auto Delete For Group Message (Self Delete) #
 SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 330))
@@ -82,7 +82,7 @@ DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
 DOWNLOAD_TEXT_URL = "https://t.me/donvijays_marvell/6"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "Subscribe"
+CAPTION_BUTTON = "Sᴜʙsᴄʀɪʙᴇ Cʜᴀɴɴᴇʟ"
 CAPTION_BUTTON_URL = "https://t.me/movieking4"
 
    # Auto Delete For Bot Sending Files #
