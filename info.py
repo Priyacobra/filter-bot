@@ -77,12 +77,12 @@ SELF_DELETE = environ.get('SELF_DELETE', False)
 if SELF_DELETE == "False":
     SELF_DELETE = False
 
-    # Download Tutorial Button #
-DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://t.me/donvijays_marvell/6"
-
-   # Custom Caption Under Button #
+# Custom Caption Under Button #
 CAPTION_BUTTON = "Sᴜʙsᴄʀɪʙᴇ Cʜᴀɴɴᴇʟ"
 CAPTION_BUTTON_URL = "https://t.me/movieking4"
+
+    # Download Tutorial Button #
+DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
+DOWNLOAD_TEXT_URL = "https://t.me/how_to_download1000/3"
 
    # Auto Delete For Bot Sending Files #
